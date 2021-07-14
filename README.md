@@ -1,6 +1,6 @@
 # Projeto DIO
 
-<p align="center"><img src="./DIO.png" width="500"></p>
+<p align="center"><img src="./DIO.png" width="500"><img src="./carrefour_banco.png" width="120"></p>
 
 
 
