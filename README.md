@@ -11,6 +11,6 @@
   <p>
   <li>Execução de job no Dataproc GCP
   <p>
-  <li>Contador de Palavras
+  <li>Contador de Palavras usando AWS EMR
 
 </ul>
